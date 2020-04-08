@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CrudWithDataJpa
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dinak
+Implementation-Vendor-Id: com.capg.anurag
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CrudWithDataJpa
+Created-By: Maven Integration for Eclipse
+
